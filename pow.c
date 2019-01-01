@@ -4,7 +4,6 @@
 #include <math.h>
 
 int main(){
-  // compiling: clang pow.c -o pow -lgmp
   printf("Computing...\n");
 
   mpz_t res;
