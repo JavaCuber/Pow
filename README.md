@@ -3,7 +3,7 @@ This is a software to compute 9^(9^9), the biggest possible number displayed wit
 
 It's writen in C and it takes use of the GMP library.
 
-#Compilation
+# Compilation
 
 You also need to compile it. You do it using this command:
 
