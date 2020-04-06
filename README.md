@@ -7,4 +7,4 @@ It's writen in C and it takes use of the GMP library.
 
 You also need to compile it. You do it using this command:
 
-clang pow.c -o pow -lgmp
+clang pow.c -o pow -lgmp -lm
